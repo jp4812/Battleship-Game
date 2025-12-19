@@ -54,4 +54,4 @@ The project supports both multiplayer (2v2) and single-player (1vBot) modes and 
 ## How to Run
 1. Compile the program:
    ```bash
-   g++ main.cpp -o battleship
+   g++ main.cpp -o battelsp
